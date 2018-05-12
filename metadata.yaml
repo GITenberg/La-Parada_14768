@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '5676'
     url: http://www.gutenberg.org/2009/agents/5676
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14768#La-Parada
 gutenberg_issued: '2005-01-23'
 gutenberg_type: Text
 identifiers:
